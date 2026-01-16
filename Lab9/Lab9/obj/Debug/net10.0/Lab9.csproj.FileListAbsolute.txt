@@ -1,0 +1,14 @@
+C:\Users\Артем\source\repos\Lab9\Lab9\bin\Debug\net10.0\Lab9.exe
+C:\Users\Артем\source\repos\Lab9\Lab9\bin\Debug\net10.0\Lab9.deps.json
+C:\Users\Артем\source\repos\Lab9\Lab9\bin\Debug\net10.0\Lab9.runtimeconfig.json
+C:\Users\Артем\source\repos\Lab9\Lab9\bin\Debug\net10.0\Lab9.dll
+C:\Users\Артем\source\repos\Lab9\Lab9\bin\Debug\net10.0\Lab9.pdb
+C:\Users\Артем\source\repos\Lab9\Lab9\obj\Debug\net10.0\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\Lab9\Lab9\obj\Debug\net10.0\Lab9.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\Lab9\Lab9\obj\Debug\net10.0\Lab9.AssemblyInfo.cs
+C:\Users\Артем\source\repos\Lab9\Lab9\obj\Debug\net10.0\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\Lab9\Lab9\obj\Debug\net10.0\Lab9.dll
+C:\Users\Артем\source\repos\Lab9\Lab9\obj\Debug\net10.0\refint\Lab9.dll
+C:\Users\Артем\source\repos\Lab9\Lab9\obj\Debug\net10.0\Lab9.pdb
+C:\Users\Артем\source\repos\Lab9\Lab9\obj\Debug\net10.0\Lab9.genruntimeconfig.cache
+C:\Users\Артем\source\repos\Lab9\Lab9\obj\Debug\net10.0\ref\Lab9.dll
