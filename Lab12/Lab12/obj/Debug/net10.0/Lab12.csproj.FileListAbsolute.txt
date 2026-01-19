@@ -1,0 +1,14 @@
+C:\Users\Артем\source\repos\Lab12\Lab12\bin\Debug\net10.0\Lab12.exe
+C:\Users\Артем\source\repos\Lab12\Lab12\bin\Debug\net10.0\Lab12.deps.json
+C:\Users\Артем\source\repos\Lab12\Lab12\bin\Debug\net10.0\Lab12.runtimeconfig.json
+C:\Users\Артем\source\repos\Lab12\Lab12\bin\Debug\net10.0\Lab12.dll
+C:\Users\Артем\source\repos\Lab12\Lab12\bin\Debug\net10.0\Lab12.pdb
+C:\Users\Артем\source\repos\Lab12\Lab12\obj\Debug\net10.0\Lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\Lab12\Lab12\obj\Debug\net10.0\Lab12.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\Lab12\Lab12\obj\Debug\net10.0\Lab12.AssemblyInfo.cs
+C:\Users\Артем\source\repos\Lab12\Lab12\obj\Debug\net10.0\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\Lab12\Lab12\obj\Debug\net10.0\Lab12.dll
+C:\Users\Артем\source\repos\Lab12\Lab12\obj\Debug\net10.0\refint\Lab12.dll
+C:\Users\Артем\source\repos\Lab12\Lab12\obj\Debug\net10.0\Lab12.pdb
+C:\Users\Артем\source\repos\Lab12\Lab12\obj\Debug\net10.0\Lab12.genruntimeconfig.cache
+C:\Users\Артем\source\repos\Lab12\Lab12\obj\Debug\net10.0\ref\Lab12.dll
