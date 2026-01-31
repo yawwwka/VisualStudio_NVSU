@@ -1,0 +1,16 @@
+C:\Users\Артем\source\repos\Lab4\Lab4\obj\Debug\net10.0-windows\MatrixApp.Form1.resources
+C:\Users\Артем\source\repos\Lab4\Lab4\obj\Debug\net10.0-windows\Lab4.csproj.GenerateResource.cache
+C:\Users\Артем\source\repos\Lab4\Lab4\obj\Debug\net10.0-windows\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\Lab4\Lab4\obj\Debug\net10.0-windows\Lab4.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\Lab4\Lab4\obj\Debug\net10.0-windows\Lab4.AssemblyInfo.cs
+C:\Users\Артем\source\repos\Lab4\Lab4\obj\Debug\net10.0-windows\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\Lab4\Lab4\bin\Debug\net10.0-windows\Lab4.exe
+C:\Users\Артем\source\repos\Lab4\Lab4\bin\Debug\net10.0-windows\Lab4.deps.json
+C:\Users\Артем\source\repos\Lab4\Lab4\bin\Debug\net10.0-windows\Lab4.runtimeconfig.json
+C:\Users\Артем\source\repos\Lab4\Lab4\bin\Debug\net10.0-windows\Lab4.dll
+C:\Users\Артем\source\repos\Lab4\Lab4\bin\Debug\net10.0-windows\Lab4.pdb
+C:\Users\Артем\source\repos\Lab4\Lab4\obj\Debug\net10.0-windows\Lab4.dll
+C:\Users\Артем\source\repos\Lab4\Lab4\obj\Debug\net10.0-windows\refint\Lab4.dll
+C:\Users\Артем\source\repos\Lab4\Lab4\obj\Debug\net10.0-windows\Lab4.pdb
+C:\Users\Артем\source\repos\Lab4\Lab4\obj\Debug\net10.0-windows\Lab4.genruntimeconfig.cache
+C:\Users\Артем\source\repos\Lab4\Lab4\obj\Debug\net10.0-windows\ref\Lab4.dll
